@@ -65,7 +65,7 @@ Onsite আর Phone Screen ইন্টারভিউর শেষে Interview
 প্রথমে আমি Cracking The Coding Interview দিয়ে পড়া শুরু করি। এই বইয়ের Data Structures and Algorithm সম্পর্কিত সব চ্যাপ্টার প্রথমে শেষ করি। এতে বেসিক আইডিয়াগুলো Revised হয়। প্রথমবার এই বইয়ের প্রবলেম সমাধান করার সময় Naïve Approach এ করেছি। যেই প্রবলেম সমাধান করতে পারি নাই, ঐ গুলো আপাতত বাদ দিয়ে যাই। এরপর LeetCode করা শুরু। Research এর জন্য Code করা হলেও আমি অনেক দিন থেকে Data Structures and Algorithm সম্পর্কিত Code করা বন্ধ ছিল। তাই প্রথম মাসে টার্গেট ছিল LeetCode এ শুধু Easy প্রবলেম, প্রতিদিন ১০ টা করে, ৩০০ টা করব। LeetCode এ প্রবলেমগুলা খুব ছোট থাকে।
 #### Easy: ####
 - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
-- https://leetcode.com/problems/single-number-i, 
+- https://leetcode.com/problems/single-number, 
 - https://leetcode.com/problems/single-number-ii/, 
 - https://leetcode.com/problems/single-number-iii/
 - https://leetcode.com/problems/two-sum/
