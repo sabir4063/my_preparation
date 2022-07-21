@@ -58,6 +58,7 @@ Onsite আর Phone Screen ইন্টারভিউর শেষে Interview
 - ১০। [https://www.pramp.com/dashboard#/], ইন্টারভিউ প্র্যাকটিস এর জন্য MUST. আমি প্রায় ৩০টার মত ইন্টারভিউ দিয়েছি এইখানে। এই সাইটে অন্য যারা ইন্টারভিউ দিবে তারা আমার ইন্টারভিউ নেয়, পরে আমি ওদের। প্রশ্ন সাইট থেকে দেয়া হয়, সাথে সমাধান এবং hints  ও দেয়া থাকে। 
 - ১১। [https://github.com/donnemartin/system-design-primer], এই লিংকেও System Design এর ভালো Content আছে।
 - ১২। [https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d], Amazon LP প্রশ্নের জন্য খুবই ভালো।
+- ১৩. [https://www.scaler.com/topics/ ] -এটি এমন একটি সাইট যা তাদের বিভিন্ন প্রোগ্রামিং টিউটোরিয়ালের মাধ্যমে আমার বিভিন্ন প্রশ্নে আমাকে সহায়তা করেছে
 
 ## সময় বণ্টনঃ ##
 
