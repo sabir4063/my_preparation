@@ -257,3 +257,7 @@ Multiple Offer থাকলে Compensation and Benefits নিয়ে Negotiatio
 - https://medium.com/@jinzhe/my-google-interview-experience-51f716c7e578
 - https://medium.com/@vaibhavtulsyan/my-experience-of-interviewing-with-codenation-8dc06e832da4
 - https://blog.usejournal.com/from-hello-world-to-getting-a-job-at-google-23391dab849e
+
+## Resume / ATS
+
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account) + open State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%). Live candidate leaderboard is paid placement for visibility only — not pay-for-score / not pay-to-get-hired.
